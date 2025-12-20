@@ -9,7 +9,7 @@ Currently!
 <p align="center">
   
   <a href="www.linkedin.com/in/feroz-ahmed-shah-640661199">
-    <img src="https://img.shields.io/badge/feroz-ahmed-shah-640661199?logo=linkedin&style=flat-square" />
+    <!-- <img src="https://img.shields.io/badge/feroz-ahmed-shah-640661199?logo=linkedin&style=flat-square" /> -->
   </a>
 </p>
 
