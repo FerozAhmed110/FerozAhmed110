@@ -63,4 +63,4 @@ A passionate DevOps Engineer from Pakistan. Currently working at
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+🤝 Open to Collaborations!!!
