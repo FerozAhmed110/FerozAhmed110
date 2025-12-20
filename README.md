@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Feroz Ahmed</h1>
 
 <div align="center">
-  <img src="https://github.com/FerozAhmed110/FerozAhmed110/blob/main/Banner(2).png" alt="DevOp_Banner">
+  <img src="https://github.com/FerozAhmed110/FerozAhmed110/blob/main/Banner.png" alt="DevOp_Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the Corporate IT Sector</a></h3
