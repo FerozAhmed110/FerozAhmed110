@@ -4,8 +4,9 @@
   <img src="https://github.com/FerozAhmed110/FerozAhmed110/blob/main/Banner.png" alt="DevOp_Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the https://thenextdevs.com/</a></h3
-
+<h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the https://thenextdevs.com/</a></h3>
+</br>
+Currently!
 <p align="center">
   
   <a href="www.linkedin.com/in/feroz-ahmed-shah-640661199">
