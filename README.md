@@ -5,12 +5,11 @@
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from Pakistan. I work in the https://thenextdevs.com/</a></h3>
-</br>
 Currently!
 <p align="center">
   
   <a href="www.linkedin.com/in/feroz-ahmed-shah-640661199">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" /> -->
+    <img src="https://img.shields.io/badge/feroz-ahmed-shah-640661199?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
