@@ -43,10 +43,10 @@ A passionate DevOps Engineer from Pakistan. Currently working at
   <h3 align="center">Feroz Ahmed's Contributor Graph</h3>
   <p align="center">
     <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=FerozAhmed110&theme=github"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FerozAhmed110&theme=github&hide_border=true&area=true"
+  alt="Feroz Ahmed's Contributor Graph"
+/>
 
-      alt="Feroz Ahmed's Contributor Graph"
-    />
   </p>
 </details>
 
