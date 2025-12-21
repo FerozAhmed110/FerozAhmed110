@@ -43,8 +43,8 @@ A passionate DevOps Engineer from Pakistan. Currently working at
   <h3 align="center">Feroz Ahmed's Contributor Graph</h3>
   <p align="center">
     <img 
-      src="https://camo.githubusercontent.com/4abfbbbb425aa2aae9e06cf5bc48e6c90bb86e8e6d641addb866430146304cca/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d61686d656472617a616b68616e6e267468656d653d676974687562"
-      alt="Feroz Ahmed's Contributor Graph"
+      <!-- src="https://camo.githubusercontent.com/4abfbbbb425aa2aae9e06cf5bc48e6c90bb86e8e6d641addb866430146304cca/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d61686d656472617a616b68616e6e267468656d653d676974687562"
+      alt="Feroz Ahmed's Contributor Graph" -->
     />
   </p>
 </details>
