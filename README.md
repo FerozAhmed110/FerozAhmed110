@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-A passionate DevOps Engineer from Pakistan. Currently working at 
+A passionate DevOps&AiOps Engineer from Pakistan. Currently working at 
 <a href="https://thenextdevs.com/" target="_blank">TheNextDevs</a>
 </h3>
 
